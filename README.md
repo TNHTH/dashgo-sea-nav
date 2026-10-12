@@ -1,3 +1,13 @@
+# TNHTH DashGo adaptation
+
+- Repository: `TNHTH/dashgo-sea-nav`
+- Upstream: https://github.com/11chens/SEA-Nav-Code @ `fbce672c22d432e0ba8c9ef1b1e822f8fbd3ec96`
+- Fidelity: F2
+- Verification: V0
+- Canonical branch: `main`
+
+下文保留上游说明，以及已经记录的上游 commit `fbce672c22d432e0ba8c9ef1b1e822f8fbd3ec96` 和 F2。
+
 # SEA-Nav: Efficient Policy Learning for Safe and Agile Quadruped Navigation in Cluttered Environments
 
 
